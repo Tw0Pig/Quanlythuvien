@@ -12,9 +12,7 @@
 	</p>
 	<!--  -->
 	<h1>Giấy phép</h1>
-	<p>
-		
-	</p>
+	
 	<!--  -->
 	<h1>Tổ chức mã nguồn</h1>
 	<p>
@@ -23,7 +21,7 @@
 	<p>
 		<img src="http://expressmagazine.net/sites/default/files/imageDevelopment/forum.congthuong.net-3-tier.jpg" alt="">
 	</p>
-	<p></p>
+	
 	
 	<!--  -->
 	<h1>Ngôn ngữ lập trình</h1>
@@ -31,9 +29,7 @@
 		<blockquote>
 			<p>Website đựng xây dựng bằng ngôn ngữ lập trình <strong>C#</strong> sử dụng hệ quản trị CSDL <strong>MySQL</strong>.</p>
 		</blockquote>
-		<p>
-			
-		</p>
+		
 	</p>
 	<!--  -->
 	<h1>Tài liệu hướng dẫn sử dụng</h1>
@@ -42,9 +38,7 @@
 	</p>
 	<!--  -->
 	<h1>Tài liệu dành cho nhà phát triển</h1>
-	<p>
-		
-	</p>
+	
 	<!--  -->
 	<h1>Tài liệu thiết kế</h1>
 	<p>
