@@ -12,8 +12,7 @@
 	</p>
 	<!--  -->
 	<h1>Giấy phép</h1>
-	
-	<!--  -->
+
 	<h1>Tổ chức mã nguồn</h1>
 	<p>
 		Được  viết bằng ngôn ngữ C# và  được thiết kế theo mô hình 3 lớp, nó giúp cho việc thiết kế, xử lý và bảo trì mã nguồn dễ dàng, đồng thời tăng khả năng mở rộng của phần mềm<a target="_blank" href="http://toiyeucoding.blogspot.com/2015/02/mo-hinh-3-lop-trong-c-va-vi-du-minh-hoa.html">Tìm hiểu mô hình 3 lớp trong C#?</a> Ngoài ra, vận dụng mô hình này trong thiết kế, giúp tách biệt các tập tin giao diện với các tập tin xử lý dữ liệu, nâng cao khả năng quản lý và dễ bảo trì.
