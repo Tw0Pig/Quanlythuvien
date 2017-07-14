@@ -45,6 +45,7 @@
 		Tài liệu thiết kế của AdminLTE. 
 	</p>
 	<!--  -->
+	
 	<h1>Danh sách lỗi</h1>
 	<p>
 		Bạn có thể tham gia đóng góp, báo lỗi, tìm hiểu thêm thông tin tại liên kết bên dưới.<br>
