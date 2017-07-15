@@ -15,7 +15,7 @@ Ngành công nghệ thông tin (CNTT) trong những năm gần đây đã có nh
 ## Giấy phép
 
 Đồ án này được cấp phép theo giấy phép của General Public License - xem file [LICENSE.md](https://github.com/Tw0Pig/Quanlythuvien/blob/master/LICENSE)
-=======
+
 # Phần mềm quản lý thư viện
                 
 
@@ -64,13 +64,11 @@ Những lập trình viên tham gia dự án phát triển bằng ngôn ngữ C#
 ## Triển khai
 
 Đề Tài Cafe Tôm Tít được triển khai theo mô hình 3 lớp (Presentation - Bussiness Logic - Data Access)
-=======
-* CHI TIẾT VỀ CHUẨN LẬP TRÌNH [xin xem tại đây]
 
 ## Triển khai
 
 Đề Tài quản lý thư viện  được triển khai theo mô hình 3 lớp (Presentation - Bussiness Logic - Data Access)
->>>>>>> master
+
 Khi bạn làm việc với các ứng dụng, nếu với những dự án nhỏ thì việc tạo một ứng dụng theo ý của chúng ta rất dễ dàng, tuy nhiên khi bạn làm với những dự án lớn hơn, cần nhiều người cùng làm hơn thì việc lập trình trở nên phức tạp hơn, vậy nên đễ dễ dàng hơn trong việc quản lý các thành phần của hệ thống cũng như ảnh hưởng tới các thành phần khác khi ta thay đổi một thành phần, chúng ta thường nhóm các thành phần có cùng chức năng lại với nhau. Chính vì thế các mô hình lập trình được sinh ra, một trong những mô hình lập trình đó là mô hình 3 lớp (3 - Layer).
 
 * Tổ chức mô hình 3-Layer
@@ -144,10 +142,6 @@ SQL Server được tối ưu để có thể chạy trên môi trường cơ s�
 
 Vui lòng đọc [Dong_gop.md] để biết thêm chi tiết về quy tắc và trình tự đóng góp vào dự án với chúng tôi
 
-## Quy tắc ứng xử
-
-Vui lòng đọc [Quy_tac_ung_xu.md] để biết thêm chi tiết về quy tắc ứng xử của chúng tôi.
-=======
 Vui lòng đọc [donggop.md](https://github.com/Tw0Pig/Quanlythuvien/blob/master/donggop.md) để biết thêm chi tiết về quy tắc và trình tự đóng góp vào dự án với chúng tôi
 
 ## Nội Quy
@@ -170,4 +164,4 @@ Mời các bạn [Click đây để xem tài liệu thiết kế]
 Để hoàn thành tốt đề tài này chúng em xin cảm ơn thầy Mai Cường Thọ – giảng viên khoa CNTT Trường Đại học Nha Trang cùng các thầy cô bộ môn Kỹ thuật phần mềm đã tạo điều kiện cho chúng em nghiên cứu và hoàn thành đề tài. Một lần nữa chúng em xin trân trọng cảm ơn thầy Mai Cường Thọ đã tận tình giúp đỡ, hướng dẫn chúng em trong suốt quá trình thực hiện đề tài.
 
 Để hoàn thành tốt đề tài này chúng em xin cảm ơn thầy Mai Cường Thọ – giảng viên khoa CNTT Trường Đại học Nha Trang cùng các thầy cô bộ môn đã tạo điều kiện cho chúng em nghiên cứu và hoàn thành đề tài. Một lần nữa chúng em xin trân trọng cảm ơn thầy Mai Cường Thọ đã tận tình giúp đỡ, hướng dẫn chúng em trong suốt quá trình thực hiện đề tài.
->>>>>>> master
+
