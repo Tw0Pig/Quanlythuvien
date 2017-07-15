@@ -60,11 +60,6 @@ Tài liệu này chủ yếu hướng dẫn sinh viên với ngôn ngữ lập t
 Những lập trình viên tham gia dự án phát triển bằng ngôn ngữ C# và công cụ Visual Studio .Net.
 
 
-
-## Triển khai
-
-Đề Tài Cafe Tôm Tít được triển khai theo mô hình 3 lớp (Presentation - Bussiness Logic - Data Access)
-
 ## Triển khai
 
 Đề Tài quản lý thư viện  được triển khai theo mô hình 3 lớp (Presentation - Bussiness Logic - Data Access)
@@ -144,7 +139,7 @@ Vui lòng đọc [donggop.md](https://github.com/Tw0Pig/Quanlythuvien/blob/maste
 
 ## Nội Quy
 
-Vui lòng đọc [noiquy.md](https://github.com/Tw0Pig/Quanlythuvien/blob/master/noiquy.md) để biết thêm chi tiết về quy tắc ứng xử của chúng tôi.
+Vui lòng đọc [noiquy.md](https://github.com/Tw0Pig/Quanlythuvien/blob/master/noiquy.md) để biết thêm chi tiết về nội quy của chúng tôi.
 
 
 ## Tài liệu cho người dùng cuối
