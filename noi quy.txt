@@ -1,46 +1,46 @@
-# N?i quy
+# Nội quy
 
-## Cam k?t c?a ch�ng t�i
+## Cam kết của chúng tôi
 
-V?i s? quan t�m c?a vi?c th�c d?y m?t m�i tru?ng c?i m? v� th�n thi?n, v?i tu c�ch l� m?t ch? d? �n v� ngu?i duy tr�, cam k?t kh�ng d? x?y ra m?t nh?ng kh� ch?u cho m?i ngu?i, b?t k? tu?i t�c, k�ch c? co th?, khuy?t t?t, s?c t?c, gi?i t�nh v� bi?u hi?n gi?i t�nh, m?c d? kinh nghi?m, qu?c t?ch, ch?ng t?c, t�n gi�o, ho?c b?n s?c.
+Với sự quan tâm của việc thúc đẩy một môi trường cởi mở và thân thiện, với tư cách là một chủ dự án và người duy trì, cam kết không để xảy ra một những khó chịu cho mọi người, bất kể tuổi tác, kích cỡ cơ thể, khuyết tật, sắc tộc, giới tính và biểu hiện giới tính, mức độ kinh nghiệm, quốc tịch, chủng tộc, tôn giáo, hoặc bản sắc.
 
-## Ti�u chu?n c?a ch�ng t�i
+## Tiêu chuẩn của chúng tôi
 
-V� d? v? h�nh vi g�p ph?n t?o ra m�i tru?ng t�ch c?c bao g?m:
+Ví dụ về hành vi góp phần tạo ra môi trường tích cực bao gồm:
 
-* S? d?ng ng�n ng? ch�o d�n v� to�n di?n
-* T�n tr?ng nh?ng quan di?m v� kinh nghi?m kh�c nhau
-* Nh� nh?n ch?p nh?n ph� b�nh x�y d?ng
-* T?p trung v�o nh?ng g� t?t nh?t cho c?ng d?ng
-* Hi?n th? d?ng c?m v?i c�c th�nh vi�n c?ng d?ng kh�c
+* Sử dụng ngôn ngữ chào đón và toàn diện
+* Tôn trọng những quan điểm và kinh nghiệm khác nhau
+* Nhã nhặn chấp nhận phê bình xây dựng
+* Tập trung vào những gì tốt nhất cho cộng đồng
+* Hiển thị đồng cảm với các thành viên cộng đồng khác
 
-V� d? v? h�nh vi kh�ng th? ch?p nh?n du?c c?a ngu?i tham gia bao g?m:
+Ví dụ về hành vi không thể chấp nhận được của người tham gia bao gồm:
 
-* Vi?c s? d?ng ng�n ng? t�nh d?c ho?c h�nh ?nh v� s? ch� � ho?c ti?n b? t�nh d?c kh�ng du?c mong mu?n
-* Trolling, x�c ph?m / nh?n x�t x�c ph?m, v� c�c cu?c t?n c�ng c� nh�n ho?c ch�nh tr?
-* B?o h�nh c�ng c?ng ho?c ri�ng tu
-* Xu?t b?n th�ng tin c� nh�n c?a ngu?i kh�c, ch?ng h?n nhu d?a ch? v?t l� ho?c di?n t?, m� kh�ng c� s? cho ph�p r� r�ng
-* C�c h�nh vi kh�c du?c coi l� kh�ng ph� h?p trong m�i tru?ng chuy�n nghi?p
+* Việc sử dụng ngôn ngữ tình dục hoặc hình ảnh và sự chú ý hoặc tiến bộ tình dục không được mong muốn
+* Trolling, xúc phạm / nhận xét xúc phạm, và các cuộc tấn công cá nhân hoặc chính trị
+* Bạo hành công cộng hoặc riêng tư
+* Xuất bản thông tin cá nhân của người khác, chẳng hạn như địa chỉ vật lý hoặc điện tử, mà không có sự cho phép rõ ràng
+* Các hành vi khác được coi là không phù hợp trong môi trường chuyên nghiệp
 
-## Tr�ch nhi?m c?a ch�ng t�i
+## Trách nhiệm của chúng tôi
 
-Ngu?i duy tr� d? �n c� tr�ch nhi?m l�m r� c�c ti�u chu?n v? h�nh vi c� th? ch?p nh?n du?c v� du?c mong d?i c� h�nh d?ng kh?c ph?c ph� h?p v� c�ng b?ng d? d�p ?ng v?i b?t k? tru?ng h?p h�nh vi kh�ng th? ch?p nh?n du?c.
+Người duy trì dự án có trách nhiệm làm rõ các tiêu chuẩn về hành vi có thể chấp nhận được và được mong đợi có hành động khắc phục phù hợp và công bằng để đáp ứng với bất kỳ trường hợp hành vi không thể chấp nhận được.
 
-Ngu?i b?o tr� d? �n c� quy?n v� tr�ch nhi?m x�a, ch?nh s?a, ho?c t? ch?i c�c nh?n x�t, cam k?t, m�, s?a d?i wiki, c�c v?n d? v� c�c kho?n d�ng g�p kh�c kh�ng ph� h?p v?i Quy t?c ?ng x? n�y ho?c c?m t?m th?i ho?c vinh vi?n b?t k? d�ng g�p n�o cho c�c h�nh vi kh�c H? coi l� kh�ng ph� h?p, de d?a, g�y kh� ch?u ho?c c� h?i.
+Người bảo trì dự án có quyền và trách nhiệm xóa, chỉnh sửa, hoặc từ chối các nhận xét, cam kết, mã, sửa đổi wiki, các vấn đề và các khoản đóng góp khác không phù hợp với Quy tắc Ứng xử này hoặc cấm tạm thời hoặc vĩnh viễn bất kỳ đóng góp nào cho các hành vi khác Họ coi là không phù hợp, đe dọa, gây khó chịu hoặc có hại.
 
-## Ph?m vi
+## Phạm vi
 
-N?i quy n�y du?c �p d?ng trong c? kh�ng gian d? �n v� trong kh�ng gian c�ng c?ng khi m?t c� nh�n d?i di?n cho d? �n ho?c c?ng d?ng c?a m�nh. V� d? v? d?i di?n cho m?t d? �n ho?c c?ng d?ng bao g?m vi?c s? d?ng d?a ch? email ch�nh th?c c?a d? �n, dang th�ng qua t�i kho?n truy?n th�ng x� h?i ch�nh th?c ho?c l�m d?i di?n du?c ch? d?nh t?i m?t s? ki?n tr?c tuy?n ho?c ngo?i tuy?n. �?i di?n c?a m?t d? �n c� th? du?c c�c nh� duy tr� d? �n x�c d?nh v� l�m r� th�m.
+Quy tắc ứng xử này được áp dụng trong cả không gian dự án và trong không gian công cộng khi một cá nhân đại diện cho dự án hoặc cộng đồng của mình. Ví dụ về đại diện cho một dự án hoặc cộng đồng bao gồm việc sử dụng địa chỉ email chính thức của dự án, đăng thông qua tài khoản truyền thông xã hội chính thức hoặc làm đại diện được chỉ định tại một sự kiện trực tuyến hoặc ngoại tuyến. Đại diện của một dự án có thể được các nhà duy trì dự án xác định và làm rõ thêm.
 
-## Th?c thi
+## Thực thi
 
-C�c tru?ng h?p h�nh vi l?m d?ng, qu?y r?i ho?c kh�ng th? ch?p nh?n kh�c c� th? du?c b�o c�o l�n admin. Nh�m d? �n s? xem x�t v� di?u tra t?t c? c�c khi?u n?i, v� s? tr? l?i theo c�ch m� n� cho l� ph� h?p v?i ho�n c?nh. Nh�m d? �n c� nghia v? duy tr� t�nh b?o m?t d?i v?i ph�ng vi�n c?a m?t s? c?. C�c chi ti?t kh�c v? ch�nh s�ch th?c thi c? th? c� th? du?c dang ri�ng.
+Các trường hợp hành vi lạm dụng, quấy rối hoặc không thể chấp nhận khác có thể được báo cáo bằng cách liên hệ với admin. Nhóm dự án sẽ xem xét và điều tra tất cả các khiếu nại, và sẽ trả lời theo cách mà nó cho là phù hợp với hoàn cảnh. Nhóm dự án có nghĩa vụ duy trì tính bảo mật đối với phóng viên của một sự cố. Các chi tiết khác về chính sách thực thi cụ thể có thể được đăng riêng.
 
-Nh?ng ngu?i duy tr� d? �n kh�ng tu�n theo ho?c th?c thi B? Quy t?c ?ng x? m?t c�ch thi?n ch� c� th? s? ph?i ch?u h?u qu? t?m th?i ho?c vinh vi?n do c�c th�nh vi�n kh�c trong Ban l�nh d?o d? �n x�c d?nh.
+Những người duy trì dự án không tuân theo hoặc thực thi Bộ Quy tắc Ứng xử một cách thiện chí có thể sẽ phải chịu hậu quả tạm thời hoặc vĩnh viễn do các thành viên khác trong Ban lãnh đạo dự án xác định.
 
-## Ghi nh?n t�c gi?
+## Ghi nhận tác giả
 
-Quy t?c ?ng x? n�y du?c di?u ch?nh t? [B�i Th? Thanh Th?y], phi�n b?n 1.0.
+Quy tắc ứng xử này được điều chỉnh từ [Bùi Thị Thanh Thủy], phiên bản 1.0.
 
 
-Chi ti?t li�n h? | 0949.520.890 | thanhthuydhcn1a@gmail.com
+Chi tiết liên hệ | 0949.520.890 | thanhthuydhcn1a@gmail.com 
