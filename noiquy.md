@@ -40,7 +40,5 @@ Những người duy trì dự án không tuân theo hoặc thực thi Bộ Quy 
 
 ## Ghi nhận tác giả
 
-Quy tắc ứng xử này được điều chỉnh từ [Nguyễn Đức Tiến], phiên bản 1.0.
-
 
 Chi tiết liên hệ | 0949.520.890 | thanhthuydhcn1a@gmail.com
