@@ -11,7 +11,7 @@ Ngành công nghệ thông tin (CNTT) trong những năm gần đây đã có nh
 
 ## Giấy phép
 
-Xem file [LICENSE.md](https://github.com/Tw0Pig/Quanlythuvien/blob/master/LICENSE)
+[LICENSE.md](https://github.com/Tw0Pig/Quanlythuvien/blob/master/LICENSE)
 
 # Phần mềm quản lý thư viện
                 
@@ -31,8 +31,7 @@ Chúng tôi dùng [Git](https://git-scm.com/) để tổ chức quản lý phiê
 * Phân tích thiết kế giao diện.
 * Trigger SQL.
 * Procedure, function SQL.
-* Kết nối SQL server với ứng dụng winform dùng ADO.Net.
-* Event và Event nâng cao.
+* Kết nối SQL server với ứng dụng winform.
 * Chuyển data giữa các form.
 * Phân quyền người dùng trên ứng dụng.
 * DataBiding cơ bản và nâng cao.
@@ -47,20 +46,13 @@ Tài liệu này chủ yếu hướng dẫn sinh viên với ngôn ngữ lập t
 
 Những lập trình viên tham gia dự án phát triển bằng ngôn ngữ C# và công cụ Visual Studio .Net.
 
-
-## Triển khai
-
-
-
 ## Nền tảng xây dựng
 
 * [C# .NET](https://goo.gl/k4TNvU) - Nền tảng hệ thống phần mềm
 
-C # là một ngôn ngữ lập trình hiện đại được phát triển bởi Microsoft và được phê duyệt bởi European Computer Manufacturers Association (ECMA) và International Standards Organization (ISO).
+C#, theo một hướng nào đó, là ngôn ngữ lập trình phản ánh trực tiếp nhất đến.NET Framework mà tất cả các chương trình.NET chạy, và nó phụ thuộc mạnh mẽ vào Framework này. Mọi dữ liệu cơ sở đều là đối tượng, được cấp phát và hủy bỏ bởi trình dọn rác Garbage-Collector (GC), và nhiều kiểu trừu tượng khác chẳng hạn như class, delegate, interface, exception, v.v, phản ánh rõ ràng những đặc trưng của.NET runtime.
 
-C # được phát triển bởi Anders Hejlsberg và nhóm của ông trong việc phát triển .Net Framework.
-
-C # được thiết kế cho các ngôn ngữ chung cơ sở hạ tầng (Common Language Infrastructure – CLI), trong đó bao gồm các mã (Executable Code) và môi trường thực thi (Runtime Environment) cho phép sử dụng các ngôn ngữ cấp cao khác nhau trên đa nền tảng máy tính và kiến trúc khác nhau.
+C# là một ngôn ngữ lập trình hướng đối tượng được phát triển bởi Microsoft, là phần khởi đầu cho kế hoạch .NET của họ. Tên của ngôn ngữ bao gồm ký tự thăng theo Microsoft nhưng theo ECMA là C#, chỉ bao gồm dấu số thường. Microsoft phát triển C# dựa trên C++ và Java. C# được miêu tả là ngôn ngữ có được sự cân bằng giữa C++, Visual Basic, Delphi và Java.
 
 Ngôn ngữ ra đời cùng với .NET
 
@@ -92,9 +84,12 @@ Cách tổ chức .NET cho phép hạn chế những vấn đề phiên bản.
 
 * [MS SQL Server](https://goo.gl/UKLeUi) - Nền tảng cơ sở dữ liệu
 
-SQL Server là một hệ quản trị cơ sở dữ liệu quan hệ (Relational Database Management System (RDBMS) ) sử dụng câu lệnh SQL (Transact-SQL) để trao đổi dữ liệu giữa máy Client và máy cài SQL Server. Một RDBMS bao gồm databases, database engine và các ứng dụng dùng để quản lý dữ liệu và các bộ phận khác nhau trong RDBMS.
+Hệ quản trị cơ sở dữ liệu SQL Server là một hệ thống quản lý cơ sở dữ liệu (Relational Database Management Server System (RDBMS)) sử dụng Transact-SQL để trao đổi dữ liệu giữa Client computer và SQL server computer. Một RDBMS bao gồm database, database angine và các ứng dụng dùng để quản lý dữ liệu và các bộ phận khác nhau trong RDBMS. SQL server được tối ưu để có thể chạy trên môi trường cơ sở dữ liệu rất lớn lên đến TB và cso thể phụ vụ cùng lúc chô hàng ngàn user. 
+Transact-SQL (còn gọi là T-SQL) là một ngôn ngữ lập trình database hướng thủ tục độc quyền của Microsoft sử dụng trong SQL Server. Ngôn ngữ thủ tục được thiết kế để mở rộng khả năng của SQL trong khi có khả năng tích hợp tốt với SQL. Một số tính năng như các biến địa phương và xử lý chuỗi/dữ liệu được thêm vào.
 
-SQL Server được tối ưu để có thể chạy trên môi trường cơ sở dữ liệu rất lớn (Very Large Database Environment) lên đến Tera-Byte và có thể phục vụ cùng lúc cho hàng ngàn user. SQL Server có thể kết hợp “ăn ý” với các server khác như Microsoft Internet Information Server (IIS), E-Commerce Server, Proxy Server….
+* Công cụ lập trình 
+Microsoft Visual Studio là một môi trường phát triển tích hợp (IDE) từ Microsoft. Nó được sử dụng để phát triển chương trình máy tính cho Microsoft Windows, cũng như các trang web, các ứng dụng web và các dịch vụ web. Visual Studio sử dụng nền tảng phát triển phần mềm của Microsoft như Windows API, Windows Forms, Windows Presentation Foundation, Windows Store và Microsoft Silverlight. Nó có thể sản xuất cả hai ngôn ngữ máy và mã số quản lý.
+
 
 ## Đóng góp
 
