@@ -102,7 +102,7 @@ Click vào link  [Đóng góp](https://github.com/Tw0Pig/Quanlythuvien/blob/mast
 
 ## Nội Quy
 
-Click vào link  [noiquy.md](https://github.com/Tw0Pig/Quanlythuvien/blob/master/noiquy.md) để biết thêm chi tiết về nội quy của chúng tôi.
+Click vào link  [Nội Quy](https://github.com/Tw0Pig/Quanlythuvien/blob/master/noiquy.md) để biết thêm chi tiết về nội quy của chúng tôi.
 
 
 ## Tài liệu cho người dùng cuối
