@@ -6,8 +6,8 @@ Ngành công nghệ thông tin (CNTT) trong những năm gần đây đã có nh
 
 ## Tác giả
 
-* **Bùi Thị Thanh Thủy** - Tác giả | 0949.520.890 | thanhthuydhcn1a@gmail.com 
-* **Trần Duy Quang** - Đồng tác giả | 098.991.29.46 | duyquangit796@gmail.com
+* **Bùi Thị Thanh Thủy**   | thanhthuydhcn1a@gmail.com 
+* **Trần Duy Quang**   | duyquangit796@gmail.com
 
 ## Giấy phép
 
