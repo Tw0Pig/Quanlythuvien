@@ -31,10 +31,6 @@ Chúng tôi dùng [Git](https://git-scm.com/) để tổ chức quản lý phiê
 * **Bùi Thị Thanh Thủy** - Tác giả |0949520890 | thanhthuydhcn1a@gmail.com 
 * **Trần Duy Quang** - Đồng tác giả | 09899912946 | duyquangit796@gmail.com
 
-## Giấy phép
-
-
-
 ## Kiến thức áp dụng
 
 * Sử dụng các control cơ bản và nâng cao trong Winform. 
