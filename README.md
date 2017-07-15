@@ -101,11 +101,11 @@ SQL Server được tối ưu để có thể chạy trên môi trường cơ s�
 
 ## Đóng góp
 
-Vui lòng đọc [donggop.md](https://github.com/Tw0Pig/Quanlythuvien/blob/master/donggop.md) để biết thêm chi tiết về quy tắc và trình tự đóng góp vào dự án với chúng tôi
+Click vào link  [Đóng góp](https://github.com/Tw0Pig/Quanlythuvien/blob/master/donggop.md) để có thể tham gia đóng góp cùng chúng tôi.
 
 ## Nội Quy
 
-Vui lòng đọc [noiquy.md](https://github.com/Tw0Pig/Quanlythuvien/blob/master/noiquy.md) để biết thêm chi tiết về nội quy của chúng tôi.
+Click vào link  [noiquy.md](https://github.com/Tw0Pig/Quanlythuvien/blob/master/noiquy.md) để biết thêm chi tiết về nội quy của chúng tôi.
 
 
 ## Tài liệu cho người dùng cuối
