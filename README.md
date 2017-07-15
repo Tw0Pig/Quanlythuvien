@@ -14,7 +14,7 @@ Ngành công nghệ thông tin (CNTT) trong những năm gần đây đã có nh
 
 ## Giấy phép
 
-Đồ án này được cấp phép theo giấy phép của General Public License - xem file [LICENSE.md](https://github.com/Tw0Pig/Quanlythuvien/blob/master/LICENSE)
+Đồ án này được cấp phép theo giấy phép  - xem file [LICENSE.md](https://github.com/Tw0Pig/Quanlythuvien/blob/master/LICENSE)
 
 # Phần mềm quản lý thư viện
                 
@@ -149,13 +149,12 @@ Vui lòng đọc [noiquy.md](https://github.com/Tw0Pig/Quanlythuvien/blob/master
 
 ## Tài liệu cho người dùng cuối
 
-Mời các bạn [Click đây để xem tài liệu cho người dùng cuối]
+Mời các bạn [Click đây để xem tài liệu cho người dùng cuối](https://github.com/Tw0Pig/Quanlythuvien/blob/master/tailieuchonguoidungcuoi.md)
 
 
 ## Tài liệu cho nhà phát triển
-Mời các bạn [Click đây để xem tài liệu cho nhà phát triển]
-## Tài liệu thiết kế
-Mời các bạn [Click đây để xem tài liệu thiết kế]
+Mời các bạn [Click đây để xem tài liệu cho nhà phát triển](https://github.com/Tw0Pig/Quanlythuvien/blob/master/tailieudanhchonhaphattrien.md)
+
 ## Lời cảm ơn
 
 
