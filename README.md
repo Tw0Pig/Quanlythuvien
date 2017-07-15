@@ -13,6 +13,10 @@ Ngành công nghệ thông tin (CNTT) trong những năm gần đây đã có nh
 
 [LICENSE.md](https://github.com/Tw0Pig/Quanlythuvien/blob/master/LICENSE)
 
+MIT License
+
+Copyright (c) 2017 Tw0Pig
+
 # Phần mềm quản lý thư viện
                 
 
