@@ -116,10 +116,3 @@ Mời các bạn [Click đây để xem tài liệu cho nhà phát triển](http
 ## Source code cho những ai muốn theo dõi các version của bài 
 [Source code](https://github.com/Tw0Pig/Quanlythuvien/releases)
 
-## Lời cảm ơn
-
-
-Để hoàn thành tốt đề tài này chúng em xin cảm ơn thầy Mai Cường Thọ  đã tạo điều kiện cho chúng em nghiên cứu và hoàn thành đề tài. 
-Một lần nữa, chúng em chân thành cảm ơn thầy.
-
-
