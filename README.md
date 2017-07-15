@@ -1,6 +1,6 @@
 # Đề tài môn học Phát triển phần mềm mã nguồn mở
 
-<<<<<<< HEAD
+
 # Phần mềm quản lý thư viện trường Đại Học Thông Tin Liên Lạc
                 
 Ngành công nghệ thông tin (CNTT) trong những năm gần đây đã có những bước phát triển vượt bậc trên thế giới cũng như trong nước. CNTT đã góp phần rất lớn cho sự phát triển kinh tế của nước ta trong thời kỳ đổi mới. Chính vì thế nhu cầu tin học hóa các chương trình quản lý thư viện cũng đang rất cần thiết để có thể đổi mới với quy định quản lý, đạt hiệu quả cao. 
@@ -10,16 +10,14 @@ Ngành công nghệ thông tin (CNTT) trong những năm gần đây đã có nh
 ## Tác giả
 
 * **Bùi Thị Thanh Thủy** - Tác giả | 0949.520.890 | thanhthuydhcn1a@gmail.com 
-* **Trần Duy Quang ** - Đồng tác giả | 098.991.29.46 | 
+* **Trần Duy Quang** - Đồng tác giả | 098.991.29.46 | duyquangit796@gmail.com
 
 ## Giấy phép
 
-Đồ án này được cấp phép theo giấy phép của General Public License - xem file [LICENSE.md] https://github.com/Tw0Pig/Quanlythuvien/blob/master/LICENSE
+Đồ án này được cấp phép theo giấy phép của General Public License - xem file [LICENSE.md](https://github.com/Tw0Pig/Quanlythuvien/blob/master/LICENSE)
 =======
 # Phần mềm quản lý thư viện
-<p align="center">
-  
-</p>                
+                
 
 Ngành công nghệ thông tin (CNTT) trong những năm gần đây đã có những bước phát triển vượt bậc trên thế giới cũng như trong nước. CNTT đã góp phần rất lớn cho sự phát triển kinh tế của nước ta trong thời kỳ đổi mới. Chính vì thế nhu cầu tin học hóa các chương trình quản lý thư viện cũng đang rất cần thiết để có thể đổi mới với quy định quản lý, đạt hiệu quả cao. 
 Ứng dụng tin học trong công tác quản lý đã phát triển mạnh mẽ giúp cho công tác quản lý ngày càng trở nên hiệu quả hơn như nâng cao hiệu suất trong công việc, đưa ra các báo cáo, các số liệu thống kê một cách nhanh chóng chính xác và kịp thời. Đồng thời nhờ có việc ứng dụng tin học đã tiết kiệm được rất nhiều thời gian, công sức của con người, nó làm giảm nhẹ bộ máy quản lý vốn rất cồng kềnh từ trước tới nay
@@ -36,7 +34,6 @@ Chúng tôi dùng [Git](https://git-scm.com/) để tổ chức quản lý phiê
 ## Giấy phép
 
 
->>>>>>> master
 
 ## Kiến thức áp dụng
 
@@ -61,7 +58,7 @@ Tài liệu này chủ yếu hướng dẫn sinh viên với ngôn ngữ lập t
 * Phạm vi áp dụng:
 
 Những lập trình viên tham gia dự án phát triển bằng ngôn ngữ C# và công cụ Visual Studio .Net.
-<<<<<<< HEAD
+
 
 
 ## Triển khai
@@ -145,7 +142,6 @@ SQL Server được tối ưu để có thể chạy trên môi trường cơ s�
 
 ## Đóng góp
 
-<<<<<<< HEAD
 Vui lòng đọc [Dong_gop.md] để biết thêm chi tiết về quy tắc và trình tự đóng góp vào dự án với chúng tôi
 
 ## Quy tắc ứng xử
@@ -157,23 +153,21 @@ Vui lòng đọc [donggop.md](https://github.com/Tw0Pig/Quanlythuvien/blob/maste
 ## Nội Quy
 
 Vui lòng đọc [noiquy.md](https://github.com/Tw0Pig/Quanlythuvien/blob/master/noiquy.md) để biết thêm chi tiết về quy tắc ứng xử của chúng tôi.
->>>>>>> master
+
 
 ## Tài liệu cho người dùng cuối
 
 Mời các bạn [Click đây để xem tài liệu cho người dùng cuối]
-<<<<<<< HEAD
-=======
 
->>>>>>> master
+
 ## Tài liệu cho nhà phát triển
 Mời các bạn [Click đây để xem tài liệu cho nhà phát triển]
 ## Tài liệu thiết kế
 Mời các bạn [Click đây để xem tài liệu thiết kế]
 ## Lời cảm ơn
 
-<<<<<<< HEAD
+
 Để hoàn thành tốt đề tài này chúng em xin cảm ơn thầy Mai Cường Thọ – giảng viên khoa CNTT Trường Đại học Nha Trang cùng các thầy cô bộ môn Kỹ thuật phần mềm đã tạo điều kiện cho chúng em nghiên cứu và hoàn thành đề tài. Một lần nữa chúng em xin trân trọng cảm ơn thầy Mai Cường Thọ đã tận tình giúp đỡ, hướng dẫn chúng em trong suốt quá trình thực hiện đề tài.
-=======
+
 Để hoàn thành tốt đề tài này chúng em xin cảm ơn thầy Mai Cường Thọ – giảng viên khoa CNTT Trường Đại học Nha Trang cùng các thầy cô bộ môn đã tạo điều kiện cho chúng em nghiên cứu và hoàn thành đề tài. Một lần nữa chúng em xin trân trọng cảm ơn thầy Mai Cường Thọ đã tận tình giúp đỡ, hướng dẫn chúng em trong suốt quá trình thực hiện đề tài.
 >>>>>>> master
