@@ -149,13 +149,12 @@ Vui lòng đọc [noiquy.md](https://github.com/Tw0Pig/Quanlythuvien/blob/master
 
 ## Tài liệu cho người dùng cuối
 
-Mời các bạn [Click đây để xem tài liệu cho người dùng cuối]
+Mời các bạn [Click đây để xem tài liệu cho người dùng cuối](https://github.com/Tw0Pig/Quanlythuvien/blob/master/tailieuchonguoidungcuoi.md)
 
 
 ## Tài liệu cho nhà phát triển
 Mời các bạn [Click đây để xem tài liệu cho nhà phát triển]
-## Tài liệu thiết kế
-Mời các bạn [Click đây để xem tài liệu thiết kế]
+
 ## Lời cảm ơn
 
 
