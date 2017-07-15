@@ -80,5 +80,4 @@ Commit message này sẽ tự động đánh dấu issue #3 là closed khi pull 
 
 Các kênh của việc hợp tác thường được mở ra như một môi trường hỗ trợ, chẳng hạn như forums và chatrooms. Cũng có thể có các email chains, meetups, hoặc các conference calls giúp cho việc định hướng project và tạo ra một cộng đồng sôi nổi, hữu ích. Nếu không có những cộng đồng thế này, hiệu quả của pull request là rất thấp.
 
-Tài liệu này được tạo bởi [Bùi Thị Thanh Thủy], phiên bản 1.0.
 
