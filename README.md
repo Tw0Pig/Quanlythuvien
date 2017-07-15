@@ -120,7 +120,7 @@ SQL Server được tối ưu để có thể chạy trên môi trường cơ s�
 
 ## Đóng góp
 
-Vui lòng đọc [Dong_gop.md] để biết thêm chi tiết về quy tắc và trình tự đóng góp vào dự án với chúng tôi
+Vui lòng đọc [donggop.md] https://github.com/Tw0Pig/Quanlythuvien/blob/master/donggop.md để biết thêm chi tiết về quy tắc và trình tự đóng góp vào dự án với chúng tôi
 
 ## Quy tắc ứng xử
 
