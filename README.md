@@ -14,7 +14,7 @@ Ngành công nghệ thông tin (CNTT) trong những năm gần đây đã có nh
 
 ## Giấy phép
 
-Đồ án này được cấp phép theo giấy phép  - xem file [LICENSE.md](https://github.com/Tw0Pig/Quanlythuvien/blob/master/LICENSE)
+Xem file [LICENSE.md](https://github.com/Tw0Pig/Quanlythuvien/blob/master/LICENSE)
 
 # Phần mềm quản lý thư viện
                 
