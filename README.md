@@ -122,9 +122,9 @@ SQL Server được tối ưu để có thể chạy trên môi trường cơ s�
 
 Vui lòng đọc [donggop.md] https://github.com/Tw0Pig/Quanlythuvien/blob/master/donggop.md để biết thêm chi tiết về quy tắc và trình tự đóng góp vào dự án với chúng tôi
 
-## Quy tắc ứng xử
+## Nội Quy
 
-Vui lòng đọc [Quy_tac_ung_xu.md] để biết thêm chi tiết về quy tắc ứng xử của chúng tôi.
+Vui lòng đọc [noiquy.md] https://github.com/Tw0Pig/Quanlythuvien/blob/master/noiquy.md để biết thêm chi tiết về quy tắc ứng xử của chúng tôi.
 
 ## Tài liệu cho người dùng cuối
 
