@@ -26,11 +26,6 @@ Ngành công nghệ thông tin (CNTT) trong những năm gần đây đã có nh
 
 Chúng tôi dùng [Git](https://git-scm.com/) để tổ chức quản lý phiên bản theo hướng phân tán.
 
-## Tác giả
-
-* **Bùi Thị Thanh Thủy** - Tác giả |0949520890 | thanhthuydhcn1a@gmail.com 
-* **Trần Duy Quang** - Đồng tác giả | 09899912946 | duyquangit796@gmail.com
-
 ## Kiến thức áp dụng
 
 * Sử dụng các control cơ bản và nâng cao trong Winform. 
@@ -58,31 +53,6 @@ Những lập trình viên tham gia dự án phát triển bằng ngôn ngữ C#
 
 ## Triển khai
 
-Đề Tài quản lý thư viện  được triển khai theo mô hình 3 lớp (Presentation - Bussiness Logic - Data Access)
-
-Khi bạn làm việc với các ứng dụng, nếu với những dự án nhỏ thì việc tạo một ứng dụng theo ý của chúng ta rất dễ dàng, tuy nhiên khi bạn làm với những dự án lớn hơn, cần nhiều người cùng làm hơn thì việc lập trình trở nên phức tạp hơn, vậy nên đễ dễ dàng hơn trong việc quản lý các thành phần của hệ thống cũng như ảnh hưởng tới các thành phần khác khi ta thay đổi một thành phần, chúng ta thường nhóm các thành phần có cùng chức năng lại với nhau. Chính vì thế các mô hình lập trình được sinh ra, một trong những mô hình lập trình đó là mô hình 3 lớp (3 - Layer).
-
-* Tổ chức mô hình 3-Layer
-Có rất nhiều cách đặt tên cho các thành phần của 3 lớp như:
-Cách 1: GUI, BUS, DAL
-Cách 2: GUI, BLL, DAO, DTO Ở đây chúng tôi xin sử dụng cách này! 
-Cách 3: Presentation, BLL, DAL
-
-* Presentation Layers
-Lớp này làm nhiệm vụ giao tiếp với người dùng cuối để thu thập dữ liệu và hiển thị kết quả/dữ liệu thông qua các thành phần trong giao diện người sử dụng. Trong .NET thì bạn có thể dùng Windows Forms, ASP.NET hay Mobile Forms để hiện thực lớp này.
-* Business Logic Layer
-Đây là layer xử lý chính các dữ liệu trước khi được đưa lên hiển thị trên màn hình hoặc xử lý các dữ liệu trước khi chuyển xuống Data Access Layer để lưu dữ liệu xuống cơ sở dữ liệu.
-Đây là nơi đê kiểm tra ràng buộc, các yêu cầu nghiệp vụ, tính toán, xử lý các yêu cầu và lựa chọn kết quả trả về cho Presentation Layers.
-* Data Access Layer
-Lớp này thực hiện các nghiệp vụ liên quan đến lưu trữ và truy xuất dữ liệu của ứng dụng như đọc, lưu, cập nhật cơ sở dữ liệu.
-
-* Cách vận hành của mô hình
-Đối với 3-Layer, yêu cầu được xử lý tuần tự qua các layer như hình.
-- Đầu tiên User giao tiếp với Presentation Layers (GUI) để gửi đi thông tin và yêu cầu. Tại layer này, các thông tin sẽ được kiểm tra, nếu OK chúng sẽ được chuyển xuống Business Logic Layer (BLL).
-- Tại BLL, các thông tin sẽ được nhào nặn, tính toán theo đúng yêu cầu đã gửi, nếu không cần đến Database thì BLL sẽ gửi trả kết quả về GUI, ngược lại nó sẽ đẩy dữ liệu (thông tin đã xử lý) xuống Data Access Layer (DAL).
-- DAL sẽ thao tác với Database và trả kết quả về cho BLL, BLL kiểm tra và gửi nó lên GUI để hiển thị cho người dùng.
-- Một khi gặp lỗi (các trường hợp không đúng dữ liệu) thì đang ở layer nào thì quăng lên trên layer cao hơn nó 1 bậc cho tới GUI thì sẽ quăng ra cho người dùng biết
-- Các dữ liệu được trung chuyển giữa các Layer thông qua một đối tượng gọi là Data Transfer Object (DTO), đơn giản đây chỉ là các Class đại diện cho các đối tượng được lưu trữ trong Database.
 
 
 ## Nền tảng xây dựng
