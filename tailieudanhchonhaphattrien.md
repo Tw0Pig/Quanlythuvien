@@ -22,9 +22,6 @@ Hiện tại, ở Phiên Bản đầu tiên, với 2 Contribute chính là Thủ
 
 ####	Phân tích thiết kế hệ thống
 
-*	Giáo Trình Thiết Kế Hệ Thống Thông Tin
-
-		https://www.slideshare.net/votanphuc/gt-pttk-hethongthongtin
 *	Blog Thiết Kế Hệ Thống Thông Tin
 
 		http://iviettech.vn/category/blog/phan-tich-thiet-ke-he-thong
@@ -48,16 +45,6 @@ Hiện tại, ở Phiên Bản đầu tiên, với 2 Contribute chính là Thủ
 
 		http://blog.itviec.com/sach-lap-trinh-c/
 
-####	Lập trình theo 3 lớp 3Layer
-*	Lập trình C# - Winform - Hướng dẫn mô hình 3 layer ADO.Net và Linq
-
-		https://www.youtube.com/watch?v=_IiEd9xCLpo
-*	Lập trình mô hình 3 lớp trong C#
-
-		http://lifeandline.com/lap-trinh-c-sharp-mo-hinh-3-lop-trong-c-sharp.html
-*	Lập trình mô hình 3 lớp trong C#
-
-		http://www.imicrosoft.edu.vn/cong-nghe/27819/lap-trinh-c-mo-hinh-3-lop-trong-c-.html
 
 ####	Kĩ năng sử dụng Git
 *	Giới Thiệu Serie Git cơ bản

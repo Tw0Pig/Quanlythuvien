@@ -2,11 +2,10 @@
 
 ## Cam kết của chúng tôi
 
-Với sự quan tâm của việc thúc đẩy một môi trường cởi mở và thân thiện, với tư cách là một chủ dự án và người duy trì, cam kết không để xảy ra một những khó chịu cho mọi người, bất kể tuổi tác, kích cỡ cơ thể, khuyết tật, sắc tộc, giới tính và biểu hiện giới tính, mức độ kinh nghiệm, quốc tịch, chủng tộc, tôn giáo, hoặc bản sắc.
-
+Với sự quan tâm của việc thúc đẩy một môi trường cởi mở và thân thiện, với tư cách là một chủ dự án và người duy trì, cam kết không để xảy ra một những  vấn đề xảy ra với cộng tác viên hay khách.
 ## Tiêu chuẩn của chúng tôi
 
-Ví dụ về hành vi góp phần tạo ra môi trường tích cực bao gồm:
+Hành vi góp phần tạo ra môi trường tích cực bao gồm:
 
 * Sử dụng ngôn ngữ chào đón và toàn diện
 * Tôn trọng những quan điểm và kinh nghiệm khác nhau
@@ -14,9 +13,8 @@ Ví dụ về hành vi góp phần tạo ra môi trường tích cực bao gồm
 * Tập trung vào những gì tốt nhất cho cộng đồng
 * Hiển thị đồng cảm với các thành viên cộng đồng khác
 
-Ví dụ về hành vi không thể chấp nhận được của người tham gia bao gồm:
+Hành vi không thể chấp nhận được của người tham gia bao gồm:
 
-* Việc sử dụng ngôn ngữ tình dục hoặc hình ảnh và sự chú ý hoặc tiến bộ tình dục không được mong muốn
 * Trolling, xúc phạm / nhận xét xúc phạm, và các cuộc tấn công cá nhân hoặc chính trị
 * Bạo hành công cộng hoặc riêng tư
 * Xuất bản thông tin cá nhân của người khác, chẳng hạn như địa chỉ vật lý hoặc điện tử, mà không có sự cho phép rõ ràng
@@ -30,7 +28,7 @@ Người bảo trì dự án có quyền và trách nhiệm xóa, chỉnh sửa,
 
 ## Phạm vi
 
-Quy tắc ứng xử này được áp dụng trong cả không gian dự án và trong không gian công cộng khi một cá nhân đại diện cho dự án hoặc cộng đồng của mình. Ví dụ về đại diện cho một dự án hoặc cộng đồng bao gồm việc sử dụng địa chỉ email chính thức của dự án, đăng thông qua tài khoản truyền thông xã hội chính thức hoặc làm đại diện được chỉ định tại một sự kiện trực tuyến hoặc ngoại tuyến. Đại diện của một dự án có thể được các nhà duy trì dự án xác định và làm rõ thêm.
+Quy tắc ứng xử này được áp dụng trong cả không gian dự án và trong không gian công cộng khi một cá nhân đại diện cho dự án hoặc cộng đồng của mình. Bất cứ ai có hành vi lời lẽ gây mất đoàn kết thành viên trong dự án sẽ bị trừng trị thích đáng.
 
 ## Thực thi
 
@@ -38,9 +36,3 @@ Các trường hợp hành vi lạm dụng, quấy rối hoặc không thể ch�
 
 Những người duy trì dự án không tuân theo hoặc thực thi Bộ Quy tắc Ứng xử một cách thiện chí có thể sẽ phải chịu hậu quả tạm thời hoặc vĩnh viễn do các thành viên khác trong Ban lãnh đạo dự án xác định.
 
-## Ghi nhận tác giả
-
-Quy tắc ứng xử này được điều chỉnh từ [Nguyễn Đức Tiến], phiên bản 1.0.
-
-
-Chi tiết liên hệ | 0949.520.890 | thanhthuydhcn1a@gmail.com
