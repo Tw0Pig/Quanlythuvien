@@ -116,3 +116,6 @@ Mời các bạn [Click đây để xem tài liệu cho nhà phát triển](http
 ## Source code cho những ai muốn theo dõi các version của bài 
 [Source code](https://github.com/Tw0Pig/Quanlythuvien/releases)
 
+## kênh truyền thông 
+Facebook: [click vào đây đểm xem kênh](https://www.facebook.com/Library-Manager-Software-1386531111384676/?notif_t=page_fan&notif_id=1500219296122650)
+
