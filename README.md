@@ -1,4 +1,4 @@
-# Phần mềm quản lý thư viện
+# Phần mềm QL Thư Viện Trường Đại Học Thông Tin Liên Lạc
 <p align="center"><img alt="" src="https://github.com/Tw0Pig/Quanlythuvien/blob/master/%E2%80%8Chinh/logo.png" title="Quản Lý Thư Viện Trường Đại Học Thông Tin Liên Lạc"/></a></p>
                 
 Ngành công nghệ thông tin (CNTT) trong những năm gần đây đã có những bước phát triển vượt bậc trên thế giới cũng như trong nước. CNTT đã góp phần rất lớn cho sự phát triển kinh tế của nước ta trong thời kỳ đổi mới. Chính vì thế nhu cầu tin học hóa các chương trình quản lý thư viện cũng đang rất cần thiết để có thể đổi mới với quy định quản lý, đạt hiệu quả cao. 
