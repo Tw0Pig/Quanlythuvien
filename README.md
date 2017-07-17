@@ -120,7 +120,5 @@ Mời các bạn [Click đây để xem tài liệu cho nhà phát triển](http
 Facebook: [click vào đây đểm xem kênh](https://www.facebook.com/Library-Manager-Software-1386531111384676/?notif_t=page_fan&notif_id=1500219296122650)
 
 ## Danh sách lỗi
-Chưa báo cáo về số sách hỏng.
-Chưa in ra file .doc, .xlsx và PDF
-Giao diện chưa bắt mắt
+[Click vào link để cập nhật danh sách lỗi](https://github.com/Tw0Pig/Quanlythuvien/issues/2)
 
